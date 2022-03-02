@@ -67,3 +67,35 @@ section{
     font-weight: 500;
     color: white;
 }
+.exp-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#textcolor{
+    color: #ff5100;
+}
+#textalign{
+    text-align: center;
+    color: #f71010;
+}
+.single-exp{
+    box-shadow: 10px 10px 40px rgb(255, 89, 47);
+    height: 70%;
+    border-radius: 10px;
+}
+#first-box{
+    border-left: 8px solid red;
+    /*border-image: linear-gradient(180deg, red, #b93602);
+    border-image-slice: 1;*/
+}
+#second-box{
+    border-left: 8px solid rgb(38, 196, 235);
+    /*border-image: linear-gradient(180deg, red, #b93602);
+    border-image-slice: 1;*/
+   
+}
+footer p{
+    text-align: center;
+    font-weight: 600;
+}
